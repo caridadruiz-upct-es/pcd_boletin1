@@ -5,3 +5,9 @@ Lib/
 Scripts/
 Include/
 pyvenv.cfg
+
+# Archivo temporal del boletín
+ejercicio_boletin_1.py
+
+# Caché de Python (ya debería estar, pero por si acaso)
+**/__pycache__/
